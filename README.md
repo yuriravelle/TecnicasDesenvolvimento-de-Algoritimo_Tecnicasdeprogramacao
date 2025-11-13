@@ -1,1 +1,1 @@
-# TecnicasDesenvolvimento-de-Algoritimo_Tecnicasdeprogramacao
+# TecnicasDesenvolvimento-de-Algoritimo_Tecnicasdeprogramaca
