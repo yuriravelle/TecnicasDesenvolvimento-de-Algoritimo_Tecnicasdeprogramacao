@@ -1,1 +1,2 @@
 # TecnicasDesenvolvimento-de-Algoritimo_Tecnicasdeprogramaca
+Tecnicas Desenvolvimento de Algoritimos Tecnicas de Programação
